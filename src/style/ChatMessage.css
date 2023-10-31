@@ -1,0 +1,25 @@
+/* ChatMessage.css */
+
+.SenderMessage{
+    position: sticky;
+    color: black;
+    background: #1C63D5;
+    left: 10rem;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    max-width: 70%;
+    box-shadow: 0px 4px 8px 0px #00000014;
+    border-radius: 10px;
+}
+.ReceiverMessage{
+    color:black ;
+    background:white;
+    left: 0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    max-width: 70%;
+    box-shadow: 0px 4px 8px 0px #00000014;
+    border-radius: 10px;
+}
